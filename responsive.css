@@ -1,0 +1,83 @@
+@media screen and (max-width:576px) {
+    .nav{
+        width: 100%;
+    }
+    .main-1-flex{
+        flex-direction: column;
+    }
+    .main-1-left{
+        width: 100%;
+    }
+    .main-1-right{
+        width: 100%;
+    }
+    .main-1-text-1{
+        width: 100%;
+    }
+    .main-2-heading{
+        width: 100%;
+    }
+    .main-2-heading h2{
+        font-size: 2.5rem;
+    }
+    .main-2-flex{
+        flex-direction: column;
+    }
+    .card{
+        width: 100%;
+    }
+    .main-3-text h2{
+        font-size: 2rem;
+    }
+    .main-3-flex{
+        flex-direction: column;
+        gap: 20px;
+    }
+    .main-3-card{
+        width: 100%;
+    }
+    .main-4-flex{
+        flex-direction: column;
+    }
+    .main-4-card{
+        width: 100%;
+    }
+    .main-4-card h2{
+        font-size: 1.5rem;
+    }
+    .main-5-flex{
+        flex-direction: column;
+    }
+    .main-5-left{
+        width: 100%;
+    }
+    .main-5-right{
+        width: 100%;
+    }
+    .pic{
+        margin: auto;
+    }
+    .center{
+        margin: auto;
+    }
+    .comma{
+        display: none;
+    }
+    .download{
+        width: 100%;
+    }
+    .session{
+        flex-direction: column;
+        gap: 20px;
+    }
+    .touch{
+        width: 100%;
+    }
+    .session .call{
+        width: 100%;
+    
+    }
+    .session .table{
+        width: 100%;
+    }
+}
